@@ -24,7 +24,7 @@ DATA SET Link: [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistent
   * Input is an image taken through dermoscope, should be mapped with accurte type of skin cancer.
   * These images come under 7 different classes namely Melanoma,nevus,Basal cell carcinoma,Actinickeratosis/Bowen’sdisease,Dermatofibroma,Vascular lesion.
   <div class="PIE_CHART">
-  <img src="" width="32%" style="margin-right:1px;">
+  <img src="pie_chart.jpg" width="32%" style="margin-right:1px;">
 </div>
 
 ## Results & Conclusion
