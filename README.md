@@ -18,6 +18,10 @@ DATA SET Link: [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistent
   * The encoder has 5 layers upto 64units
   * The decoder takes 64 as input and regenerated the input size
   * The training is done for 300 iterations, The pretrained layers of encoder are used in a neural network and the mapping is done with seven types of lesion.
+ The results can be reproduced with the following  command:  
+  ```
+python run_main.py --dim_z 2 --num_epochs 60 --PMLR True
+```
   
 
 ## Training Objective
